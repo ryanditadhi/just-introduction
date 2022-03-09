@@ -1,2 +1,2 @@
-# just-intoduction
+# just-introduction
 Nothing happen.
